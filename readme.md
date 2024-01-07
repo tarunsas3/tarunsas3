@@ -19,6 +19,3 @@ I hold a Bachelor's degree in Computer Science from Rajalakshmi Institute of Tec
 
 ### Let's Connect:
 Eager to contribute my technical prowess to innovative projects. Let's connect to explore how my Fullstack development skills can elevate your organization's digital journey.
-
-### Recent Projects:
-Explore my recent projects, including a real-time Chat Application, Social Media API, CSV Vault, and Issue Tracker, showcasing proficiency in React, Node, Express, and MongoDB.
