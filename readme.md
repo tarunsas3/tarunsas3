@@ -13,9 +13,9 @@
 </div>
 </br>
 <div>
-  <img align="left" height="180em" width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsas3&layout=compact&theme=" alt="tarunsas3" />
+  <img align="left" height="180em" width="28%" src="https://github-readme-stats-tarunsas3.vercel.app/api/top-langs/?username=tarunsas3&layout=compact&theme=&hide_progress=false" alt="tarunsas3" />
   <img align="center" height="180em" width="37%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsas3&theme=" alt="tarunsas3" />
-  <img align="right" height="180em" width="30%" src="https://github-readme-stats.vercel.app/api?username=tarunsas3&show_icons=true&locale=en&theme=default&hide_rank=true&hide_title=true&line_height=23" alt="tarunsas3" />
+  <img align="right" height="180em" width="30%" src="https://github-readme-stats-tarunsas3.vercel.app/api?username=tarunsas3&show_icons=true&locale=en&theme=default&hide_rank=true&hide_title=true&line_height=23" alt="tarunsas3" />
 </div>
 </br>
 <div>
