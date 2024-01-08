@@ -13,9 +13,9 @@
 </div>
 </br>
 <div>
-  <img align="left" height="180em" width="28%" src="https://github-readme-stats-tarunsas3.vercel.app/api/top-langs/?username=tarunsas3&layout=compact&theme=&hide_progress=false" alt="tarunsas3" />
-  <img align="center" height="180em" width="37%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsas3&theme=" alt="tarunsas3" />
-  <img align="right" height="180em" width="30%" src="https://github-readme-stats-tarunsas3.vercel.app/api?username=tarunsas3&show_icons=true&locale=en&theme=default&hide_rank=true&hide_title=true&line_height=23" alt="tarunsas3" />
+  <img align="left" height="180em" width="28%" src="https://github-readme-stats-tarunsas3.vercel.app/api/top-langs/?username=tarunsas3&layout=compact&theme=radical&hide_progress=false" alt="tarunsas3" />
+  <img align="center" height="180em" width="37%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsas3&theme=radical" alt="tarunsas3" />
+  <img align="right" height="180em" width="30%" src="https://github-readme-stats-tarunsas3.vercel.app/api?username=tarunsas3&show_icons=true&locale=en&theme=radical&hide_rank=true&hide_title=true&line_height=23" alt="tarunsas3" />
 </div>
 </br>
 <div>
@@ -30,8 +30,8 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarunsas3&theme=2077" height="180em" width="66%"/>
 </div>
 </br>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tarunsas3&theme=default" width="1005px" height="340px"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tarunsas3&theme=redical" width="1005px" height="340px"/>
 </div>
 </a>
 </br>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=tarunsas3&theme=default&margin-w=10&row=2&column=9" alt="tarunsas3" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=tarunsas3&theme=radical&margin-w=10&row=2&column=9" alt="tarunsas3" /></a> </p>
