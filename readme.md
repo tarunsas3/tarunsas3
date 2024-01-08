@@ -26,7 +26,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tarunsas3&theme=2077" height="180em" width="33%"/>
 </div>
 </br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarunsas3&theme=2077" height="180em" width="33%"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarunsas3&theme=2077&utcOffset=5" height="180em" width="33%"/>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarunsas3&theme=2077" height="180em" width="66%"/>
 </div>
 </br>
