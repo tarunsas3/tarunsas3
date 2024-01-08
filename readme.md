@@ -28,7 +28,7 @@
 </div>
 </br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tarunsas3&theme=2077" height="180em" width="33%"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarunsas3&theme=2077" height="180em" width="673px"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarunsas3&theme=2077" height="180em" width="66%"/>
 </div>
 </br>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tarunsas3&theme=default" width="1005px" height="340px"/>
